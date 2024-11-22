@@ -11,6 +11,8 @@
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Gift Radar](https://github.com/sourceduty/Gift_Radar)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
